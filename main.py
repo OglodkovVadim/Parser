@@ -9,7 +9,7 @@ from selenium import webdriver
 import selenium.common.exceptions
 
 a = int(input('1 - Футбол\n2 - Хоккей\n'))
-url = 'https://winline.ru/stavki/sport/futbol/' if a == 1 else 'https://winline.ru/stavki/sport/xokkej/'
+url = 'https://...' if a == 1 else 'https://...'
 
 headers = {
     "Accept": "application/json, text/plain, */*",
