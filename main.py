@@ -3,7 +3,6 @@ import json
 import os
 import requests
 import datetime
-import lxml
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import selenium.common.exceptions
