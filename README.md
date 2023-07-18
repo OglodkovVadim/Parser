@@ -1,7 +1,7 @@
 # Parser
 
 ## Description
-This is a parser for a betting site. I collect data from the site, then process it to calculate different dependencies
+This is a parser for a betting site. I collect data from the site, then process it to calculate different dependencies.
 ___
 
 ## Stack:
